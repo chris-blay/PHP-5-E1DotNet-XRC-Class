@@ -1,0 +1,1 @@
+This is a handy class for handling communication with everyone.net when hosting your email there. I wrote it for my old work a long time ago and it's been on launchpad.net for awhile but I thought I'd put it here with all my other stuff. I'm not maintaining it anymore but I hope that someone else who needs to integrate an existing PHP5 site with everyone.net will find it useful.
